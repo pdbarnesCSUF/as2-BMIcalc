@@ -13,6 +13,7 @@
 		F1797CAA1E5D00DB00D791D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1797CA91E5D00DB00D791D8 /* Assets.xcassets */; };
 		F1797CAD1E5D00DB00D791D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1797CAB1E5D00DB00D791D8 /* LaunchScreen.storyboard */; };
 		F1797CB81E5D00DB00D791D8 /* as2_BMIcalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1797CB71E5D00DB00D791D8 /* as2_BMIcalculatorTests.swift */; };
+		F1797CC31E5D01D700D791D8 /* GITting_xcode.txt in Resources */ = {isa = PBXBuildFile; fileRef = F1797CC21E5D01D700D791D8 /* GITting_xcode.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		F1797CB31E5D00DB00D791D8 /* as2-BMIcalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "as2-BMIcalculatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1797CB71E5D00DB00D791D8 /* as2_BMIcalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = as2_BMIcalculatorTests.swift; sourceTree = "<group>"; };
 		F1797CB91E5D00DB00D791D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1797CC21E5D01D700D791D8 /* GITting_xcode.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = GITting_xcode.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				F1797CA91E5D00DB00D791D8 /* Assets.xcassets */,
 				F1797CAB1E5D00DB00D791D8 /* LaunchScreen.storyboard */,
 				F1797CAE1E5D00DB00D791D8 /* Info.plist */,
+				F1797CC21E5D01D700D791D8 /* GITting_xcode.txt */,
 			);
 			path = "as2-BMIcalculator";
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				F1797CAD1E5D00DB00D791D8 /* LaunchScreen.storyboard in Resources */,
 				F1797CAA1E5D00DB00D791D8 /* Assets.xcassets in Resources */,
 				F1797CA81E5D00DB00D791D8 /* Main.storyboard in Resources */,
+				F1797CC31E5D01D700D791D8 /* GITting_xcode.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
