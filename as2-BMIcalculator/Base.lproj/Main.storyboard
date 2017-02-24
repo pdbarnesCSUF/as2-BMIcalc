@@ -111,6 +111,13 @@
                             </mask>
                         </variation>
                     </view>
+                    <connections>
+                        <outlet property="figureImageView" destination="ME7-zg-Yc9" id="jPc-6d-LSe"/>
+                        <outlet property="heightTextField" destination="nmK-zt-7HP" id="TOU-ej-2fc"/>
+                        <outlet property="metricSwitch" destination="rS0-y5-a76" id="VbD-2s-drl"/>
+                        <outlet property="rangelLabel" destination="TWl-6Q-jT6" id="a9O-Lb-KdG"/>
+                        <outlet property="weightTextField" destination="3ie-vp-i1u" id="T2P-TR-pDa"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

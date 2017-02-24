@@ -10,6 +10,13 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var heightTextField: UITextField!
+    @IBOutlet weak var weightTextField: UITextField!
+    @IBOutlet weak var metricSwitch: UISwitch!
+    @IBOutlet weak var rangelLabel: UILabel!
+    @IBOutlet weak var figureImageView: UIImageView!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
