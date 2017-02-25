@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  as2-BMIcalculator
 //
-//  Created by pdbarnes on 2/21/17.
+//  Created by Patrick Barnes on 2/21/17.
 //  Copyright © 2017 pdbarnes. All rights reserved.
 //
 
